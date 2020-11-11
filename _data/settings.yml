@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Book record
-logo: logo.svg # You can add own logo.
+logo: IMG_0775.PNG # You can add own logo.
 description: Zolan is modern minimal theme for Jekyll
 
 
@@ -11,7 +11,7 @@ author:
   name: Juhee
   image: 001.jpg
   say-hello: Hi, I’m <strong>juhee </strong>
-  bio: I want to  <strong>write</strong>, <strong>share</strong> and <strong>recommend </strong>  <a href="#"> <font color = '#1E90FF'> Books </font></a> as a part-time bookstore student :-)
+  bio: I want to  <strong>write</strong>, <strong>share</strong> and <strong>recommend </strong>  <a href="#"> <font color = '#2E8B57'> Books </font></a> as a part-time bookstore student :-)
 
 
 #-------------------------------

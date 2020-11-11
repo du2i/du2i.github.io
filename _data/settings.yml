@@ -11,16 +11,15 @@ author:
   name: Juhee
   image: 001.jpg
   say-hello: Hi, I’m <strong>juhee </strong>
-  bio: I want to  <strong>write</strong>, <strong>share</strong> and <strong>recommend </strong>  <a href="#"> Books</a> as a part-time bookstore student :-)
+  bio: I want to  <strong>write</strong>, <strong>share</strong> and <strong>recommend </strong>  <a href="#"> <font color = '#1E90FF'> Books </font></a> as a part-time bookstore student :-)
 
 
 #-------------------------------
 # Contact links
 
 facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
 instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+
 
 
 #-------------------------------

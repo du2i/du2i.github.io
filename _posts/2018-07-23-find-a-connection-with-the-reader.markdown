@@ -2,10 +2,10 @@
 layout: post
 title:  트렌드 코리아 2021
 date:   2020-11-17 15:01:35 +0300
-image:  02.jpg
+image:  트렌드코리아2021.jpg
 tags:   경제/경영
 ---
-Yeah, and if you were the pope they'd be all, "Straighten your pope hat." And "Put on your good vestments." Noooooo! Perhaps, but perhaps your civilization is merely the sewer of an even greater society above you!
+트렌드 코리아 21은 펜데믹 속에서도 평정심을 유지하자는 뜻, 백신의 기원이 된 소의 해, 현실을 직시하되 희망을 잃지 말자는 의미에서 COWBOW HERO를 2021의 10대의 트렌드 키워드로 설정했다. 언택트 트렌드의 진화는 어디까지인가? 새로운 브이노믹스 패러다임에 얼마나 잘 적응하느냐가 장기화될 코로나 시대를 이겨내는 전략을 제공할 것이다. 
 
 You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You people wonder why I'm still single?__ *It's 'cause all the fine robot sisters are dating humans!* I guess if you want children beaten, you have to do it yourself.
 

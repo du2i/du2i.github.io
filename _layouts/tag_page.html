@@ -12,3 +12,10 @@ layout: default
 {% for post in page.posts %}
   {% include article-content.html %}
 {% endfor %}
+
+{% for tag in site.data.tags %}
+<span class = "tag" data-tag="{{tag}}>
+                              {{site.data.format[tag]}}
+</span>
+<% endfor %>
+                           

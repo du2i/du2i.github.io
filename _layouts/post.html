@@ -47,7 +47,11 @@ layout: default
     <article class="post {{ no-image }} col col-8 col-t-10 col-m-12">
 
       <div class="post__content">
-        {{ content }}
+        {{ {% if page.tags %}
+  {% for tag in page.tags %}
+    <span class="tag">{{ tag }}</span>
+  {% endfor %}
+{% endif %} }}
       </div>
 
       <div class="post__share">

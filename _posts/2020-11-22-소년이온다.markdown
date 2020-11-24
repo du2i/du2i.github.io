@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  너무 한낮의 연애
-date:   2020-11-17 15:01:35 +0300
+title:  소년이 온다
+date:   2020-11-22 15:01:35 +0300
 image:  트렌드코리아2021.jpg
 tags:   국내소설
 ---
@@ -24,6 +24,6 @@ You lived before you met me?! Ow, my spirit! Humans dating robots is sick. __You
 허허 그래서 추천해하하
 
 ![]({{ http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788959896837&orderClick=LEa&Kc= }}/images/07.jpg)
-*트렌드 코리아 2021*
+*소년이 온다*
 
 개인적인 견해를 적어주세요

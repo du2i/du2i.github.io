@@ -18,6 +18,13 @@ layout: default
 	{% if site.posts.size > 0 %}
 		{% for post in paginator.posts %}
 			{% include article-content.html %}
+		
+		{% for tag in site.data.tags %}
+  <span class="tag" data-tag="{{tag}}">
+    {{ site.data.format[tag] }}
+  </span>
+{% endfor %}
+		
 		{% endfor %}
 	{% endif %}
 	</div>
